@@ -229,6 +229,17 @@ header.masthead .intro-text .intro-heading {
   text-transform: none;
 }
 
+.services-img-small {
+  border-radius: 20px;
+  height: auto;
+  max-width: 45%;
+  margin-bottom: 10px;
+}
+
+#services {
+  padding-top: 75px;
+}
+
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
@@ -594,6 +605,14 @@ header.masthead .intro-text .intro-heading {
 
 .team-member p {
   margin-top: 0;
+}
+
+#team {
+  padding-top: 75px;
+}
+
+#team .section-subheading {
+  margin-bottom: 25px;
 }
 
 section#contact {
